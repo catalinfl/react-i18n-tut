@@ -1,0 +1,10 @@
+{
+    "title1": "Romanian title",
+    "title2": "Romanian title2",
+    "title3": "Romanian title3",
+    "description1": "Romanian description1",
+    "description2": "Romanian description2",
+    "description3": "Romanian description3",
+    "author": "{{author}} created this",
+    "date": "This was created {{date}}"
+}

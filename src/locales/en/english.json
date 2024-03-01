@@ -1,0 +1,10 @@
+{
+    "title1": "English title",
+    "title2": "English title2",
+    "title3": "English title3",
+    "description1": "English description1",
+    "description2": "English description2",
+    "description3": "English description3",
+    "author": "{{author}} created this",
+    "date": "This was created {{date}}"
+}
